@@ -1,18 +1,18 @@
 <h1 align="center">Project Name</h1>
 
-<p align="center">
-  <img src="https://vushii.com/images/placeholder.gif" width="750" height = "400" >  </a> 
-<br/></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
+<p align="center" width="100%">
+<img src="https://drive.google.com/uc?export=view&id=1DDsnRQRgrWUfO4je9IUJ1LdCQQJ36_3R" />
+</p>
+
+
 
 <br>
 
 
 
 <!--- header ---->
-  
- ## Project Scope 
+
  
   
   
